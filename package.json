@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --watchAll",
-    "dev": "nodemon ch6/6-11-2.js orders -r"
+    "dev": "nodemon ch7/7-2.js"
   },
   "keywords": [],
   "author": "",
